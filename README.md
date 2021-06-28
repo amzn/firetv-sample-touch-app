@@ -1,15 +1,10 @@
-## My Project
+## Fire TV Sample Touch Android App
 
-TODO: Fill this README out!
+This sample Android project demonstrates how to build the main UI of a Fire TV application in order to support both Touch and Remote D-Pad controls.
 
-Be sure to:
+This project can be imported in Android Studio (tested on Android Studio 4.1.1).
 
-* Change the title in this README
-* Edit your repository description on GitHub
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+Make sure sure to check out the [related tutorial on the Amazon Developer Blog](https://developer.amazon.com/blogs/appstore/post/63ff3988-9d3d-44d5-bbec-111f46895669/how-to-add-touch-interactions-to-android-based-fire-tv-applications)
 
 ## License
 
