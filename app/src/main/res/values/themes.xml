@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.SampleTouchTVApp" parent="@style/Theme.Leanback" />
+</resources>
